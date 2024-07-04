@@ -21,7 +21,7 @@
 </td>
 <td><a href="https://www.instagram.com/victor-roberto12/" target="_blank"><img src="https://github.com/victor-roberto12/victor-roberto12/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/victor-roberto12/" target="_blank"><img src="https://github.com/victor-roberto12/victor-roberto12/blob/main/img/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/victor-roberto12/" target="_blank"><img src="https://github.com/victor-roberto12/victor-roberto12/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/victor-roberto12/victor-roberto12/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
 </td>
