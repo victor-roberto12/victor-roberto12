@@ -27,8 +27,6 @@
 </td>-->
 <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/victor-roberto12/victor-roberto12/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://github.com/victor-roberto12/victor-roberto12/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
-</td>
 <td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/victor-roberto12/victor-roberto12/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/victor-roberto12/victor-roberto12/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
