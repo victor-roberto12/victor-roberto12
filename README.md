@@ -187,31 +187,29 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/writing.gif?raw=true"/>&nbsp;Veja mais:
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
 <div align="center">
 <table>
 <tr>
- <td align="center">Alguns TCCs que orientei:</td>
- <td align="center">Minha monografia (TCC),<br />dissertação e tese:</td>
- <td align="center">Revista da qual sou avaliador:</td>
+ <td align="center" colspan="3"></td>
 </tr> 
 <tr>
-<td align="center">
-<a href="http://revista.fumec.br/index.php/computacaoesociedade/issue/view/378" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/compesoc.png?raw=true"/></a>
+<td>
+<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark"/> -->
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
 </td>
-<td align="center">
-<a href="https://github.com/joaopauloaramuni/trabalhos-finais" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/sigc.jpg?raw=true"/></a>
+<td>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopauloaramuni&theme=github_dark"/>
 </td>
-<td align="center">
-<a href="https://periodicos.unb.br/index.php/RICI/index" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/rici.jpg?raw=true"/></a>
+<td>
+<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark"/>
 </td>
 </tr>
 <tr>
-<td align="center" colspan="3">:mailbox_with_mail: Informações sobre orientação de TCC ou participação em bancas, entre em contato pelo meu <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">email</a>.</td>
-</tr>
+ <td align="center" colspan="3"></td>
+</tr> 
 </table>
-
 </div>
 
 </div>
