@@ -187,59 +187,29 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/writing.gif?raw=true"/>&nbsp;Artigos que publiquei:
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/writing.gif?raw=true"/>&nbsp;Veja mais:
 
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="5"></td>
+ <td align="center">Alguns TCCs que orientei:</td>
+ <td align="center">Minha monografia (TCC),<br />dissertação e tese:</td>
+ <td align="center">Revista da qual sou avaliador:</td>
 </tr> 
 <tr>
-<td>
-<a href="https://revista.ibict.br/ciinf/article/view/4407" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/ci.jpg?raw=true"/></a>
+<td align="center">
+<a href="http://revista.fumec.br/index.php/computacaoesociedade/issue/view/378" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/compesoc.png?raw=true"/></a>
 </td>
-<td>
-<a href="https://revistas.ufpr.br/atoz/article/view/64640" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/atoz.png?raw=true"/></a>
+<td align="center">
+<a href="https://github.com/joaopauloaramuni/trabalhos-finais" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/sigc.jpg?raw=true"/></a>
 </td>
-<td>
-<a href="https://periodicos.cefetmg.br/index.php/revista-et/article/view/768" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/edtech.jpg?raw=true"/></a>
-</td>
-<td>
-<a href="https://periodicos.ufpb.br/index.php/mpgoa/article/view/43707/30214" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gestaoeaprendizagem.jpg?raw=true"/></a>
-</td>
-<td>
-<a href="https://periodicos.ufpb.br/ojs2/index.php/actas/article/view/43701" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/acta.png?raw=true"/></a>
+<td align="center">
+<a href="https://periodicos.unb.br/index.php/RICI/index" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/rici.jpg?raw=true"/></a>
 </td>
 </tr>
 <tr>
- <td align="center" colspan="5"></td>
-</tr> 
-</table>
-
-<table>
-<tr>
- <td align="center" colspan="5"></td>
-</tr> 
-<tr>
-<td>
-<a href="https://www.revistas.usp.br/gestaodeprojetos/article/view/105650" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gtp.jpg?raw=true"/></a>
-</td>
-<td>
-<a href="https://rsdjournal.org/index.php/rsd/article/view/1979" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/rsd.jpg?raw=true"/></a>
-</td>
-<td>
-<a href="https://www.cefet-rj.br/attachments/article/195/revista36_ago-dez2020_compressed.pdf" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/techcultura.jpg?raw=true"/></a>
-</td>
-<td>
-<a href="https://sou.ucs.br/etc/revistas/index.php/conexao/article/view/7781" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/conexao.png?raw=true"/></a>
-</td>
-<td>
-<a href="https://www.fumec.br/revistas/sigc/article/view/2550" target="_blank"><img width="150" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cod31.jpg?raw=true"/></a>
-</td>
+<td align="center" colspan="3">:mailbox_with_mail: Informações sobre orientação de TCC ou participação em bancas, entre em contato pelo meu <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">email</a>.</td>
 </tr>
-<tr>
- <td align="center" colspan="5"></td>
-</tr> 
 </table>
 
 </div>
