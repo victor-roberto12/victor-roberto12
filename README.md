@@ -54,8 +54,6 @@
 </div>
  
  <br>
- 
-  ![Snake animation](https://github.com/victor-roberto12/victor-roberto12/blob/main/codSna/cobrinha.yml)
 
 </div>
 
