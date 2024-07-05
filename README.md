@@ -27,7 +27,7 @@
 </td>-->
 <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/victor-roberto12/victor-roberto12/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/victor-roberto12/victor-roberto12/blob/main/img/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://calendar.google.com/calendar/u/0?cid=dmljdG9ycm92ZXJ0bzEyMzQ0NUBnbWFpbC5jb20" target="_blank"><img src="https://github.com/victor-roberto12/victor-roberto12/blob/main/img/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
