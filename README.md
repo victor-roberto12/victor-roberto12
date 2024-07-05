@@ -55,7 +55,7 @@
  
  <br>
  
-  ![Snake animation][(https://github.com/victor-roberto12/victor-roberto12/blob/output/github-contribution-grid-snake.svg)](https://github.com/victor-roberto12/victor-roberto12/blob/main/codSna/cobrinha.yml)
+  ![Snake animation](https://github.com/victor-roberto12/victor-roberto12/blob/main/codSna/cobrinha.yml)
 
 </div>
 
