@@ -37,7 +37,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, Sou o <code>Victor Roberto Faria De Souza</code>, tenho 18 anos, moro em Contagem e sou programador desde os 15 anos de idade. Atualmente sou <code>Estudante</code> do cursos de Ciência da Computação, do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.</i><br />
+<i><b>Olá</b> :wave:, Sou o <code>Victor Roberto Faria De Souza</code>, tenho 18 anos, moro em Contagem e sou programador desde os 15 anos de idade. Atualmente sou <code>Estudante</code> do cursos de Ciência da Computação, do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.</i><br>
 </div>
 
 -----
