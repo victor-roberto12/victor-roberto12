@@ -21,7 +21,7 @@
 </td>
 <td><a href="https://www.instagram.com/5733_victor/" target="_blank"><img src="https://github.com/victor-roberto12/victor-roberto12/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/victor-roberto12/" target="_blank"><img src="https://github.com/victor-roberto12/victor-roberto12/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/Victor Roberto Faria de souza/" target="_blank"><img src="https://github.com/victor-roberto12/victor-roberto12/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/victor-roberto12/victor-roberto12/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
